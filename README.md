@@ -2,7 +2,7 @@
 
 Clone this to your workspace:
 
-    git clone https://github.com/davidmoten/maven-demo.git
+    git clone https://github.com/kuldeep1974/maven-demo.git
 
 ##Import to Eclipse
 
